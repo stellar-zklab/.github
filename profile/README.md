@@ -8,5 +8,3 @@ stellar-zkident	Self-sovereign did:stellar: identity with real Groth16 zero-know
 stellar-zkstream	Privacy-preserving payment streaming using Groth16 range and nullifier proofs over Soroban's native BN254 pairing checks.	stellar-zkstream.vercel.app
 All three share the same documentation discipline: every README states plainly what's live and tested versus what's a disclosed, not-yet-built limitation — nothing is presented as working that isn't.
 
-Maintainer
-@larryjay007
